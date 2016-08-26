@@ -20,6 +20,9 @@ public class RepositorioIngenieriaII {
         System.out.println("Bienvenido a java");
         System.out.println("gdththyj");
         
+        int numero1 = 30;
+        int numero2 = 60;
+        
     }
     
 }
