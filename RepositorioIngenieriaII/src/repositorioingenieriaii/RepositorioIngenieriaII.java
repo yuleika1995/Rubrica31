@@ -17,11 +17,7 @@ public class RepositorioIngenieriaII {
     public static void main(String[] args) {
         // TODO code application logic here
         
-        System.out.println("Bienvenido a java");
-        System.out.println("gdththyj");
-        
-        int numero1 = 30;
-        int numero2 = 60;
+        System.out.println("Hola Mundo");
         
     }
     
