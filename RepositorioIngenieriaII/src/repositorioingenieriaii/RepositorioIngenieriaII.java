@@ -18,6 +18,8 @@ public class RepositorioIngenieriaII {
         // TODO code application logic here
         
         System.out.println("Bienvenido a java");
+        System.out.println("gdththyj");
+        
     }
     
 }
